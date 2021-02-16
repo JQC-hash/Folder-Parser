@@ -1,5 +1,9 @@
 # Folder Parser
 
+<p align="center">
+  <img src="https://github.com/JQC-hash/Folder-Parser/blob/main/FolderParser_Result%20Window.png" width="330" height="225"/>
+</p>
+
  *  Compilation:  javac FolderParser.java  
  *  Execution:   java FolderParser  
  *  Dependencies:   
